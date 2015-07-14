@@ -1,5 +1,5 @@
 {
-    "name": "zyrcle.jms/aop-bundle",
+    "name": "castarco/aop-bundle",
     "description": "Adds AOP capabilities to Symfony2",
     "keywords": ["annotations","aop"],
     "type": "symfony-bundle",
